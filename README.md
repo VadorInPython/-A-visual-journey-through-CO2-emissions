@@ -5,3 +5,5 @@
 3. Open the pbix file and go to the 'Report View' in the left panel.
 4. You should access the whole dashboard with diagrams by performing the step above.
 5. Play around with diagrams.
+
+# Only Polish Version available at the moment! 
